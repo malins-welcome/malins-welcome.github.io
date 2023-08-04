@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/stylesheet.css?v=1" media="screen"/>
+
 <button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
 <button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
 <button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
