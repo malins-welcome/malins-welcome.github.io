@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="/stylesheet.css?v=1" media="screen"/>
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/malins-welcome/malins-welcome.github.io/main/stylesheet.css" media="screen"/>
 
 <button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
 <button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
